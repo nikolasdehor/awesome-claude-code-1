@@ -45,66 +45,10 @@ A flat list view of all resources. Category: **Clients** | Sorted: by date creat
 
 ## Resources
 
-<table>
-<thead>
-<tr>
-<th>Resource</th>
-<th>Category</th>
-<th>Sub-Category</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/nielsgroen/claude-tmux"><b>claude-tmux</b></a><br>by <a href="https://github.com/nielsgroen">Niels Groeneveld</a></td>
-<td>Alternative Clients</td>
-<td>General</td>
-<td>Manage Claude Code within tmux. A tmux popup of all your Claude Code instances, enabling quick switching, status monitoring, session lifecycle management, with git worktree and pull request support.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/nielsgroen/claude-tmux?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/nielsgroen/claude-tmux?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/nielsgroen/claude-tmux?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/nielsgroen/claude-tmux?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/nielsgroen/claude-tmux?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/nielsgroen/claude-tmux?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/nielsgroen/claude-tmux?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/nielsgroen/claude-tmux?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/nielsgroen/claude-tmux?style=flat-square" alt="license"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/phiat/claude-esp"><b>claude-esp</b></a><br>by <a href="https://github.com/phiat">phiat</a></td>
-<td>Alternative Clients</td>
-<td>General</td>
-<td>Go-based TUI that streams Claude Code's hidden output (thinking, tool calls, subagents) to a separate terminal. Watch multiple sessions simultaneously, filter by content type, and track background tasks. Ideal for debugging or understanding what Claude is doing under the hood without interrupting your main session.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/phiat/claude-esp?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/phiat/claude-esp?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/phiat/claude-esp?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/phiat/claude-esp?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/phiat/claude-esp?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/phiat/claude-esp?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/phiat/claude-esp?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/phiat/claude-esp?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/phiat/claude-esp?style=flat-square" alt="license"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/opactorai/Claudable"><b>Claudable</b></a><br>by <a href="https://www.linkedin.com/in/seongil-park/">Ethan Park</a></td>
-<td>Alternative Clients</td>
-<td>General</td>
-<td>Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/opactorai/Claudable?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/opactorai/Claudable?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/opactorai/Claudable?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/opactorai/Claudable?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/opactorai/Claudable?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/opactorai/Claudable?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/opactorai/Claudable?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/opactorai/Claudable?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/opactorai/Claudable?style=flat-square" alt="license"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/omnara-ai/omnara"><b>Omnara</b></a><br>by <a href="https://github.com/ishaansehgal99">Ishaan Sehgal</a></td>
-<td>Alternative Clients</td>
-<td>General</td>
-<td>A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/omnara-ai/omnara?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/omnara-ai/omnara?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/omnara-ai/omnara?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/omnara-ai/omnara?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/omnara-ai/omnara?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/omnara-ai/omnara?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/omnara-ai/omnara?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/omnara-ai/omnara?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/omnara-ai/omnara?style=flat-square" alt="license"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/stravu/crystal"><b>crystal</b></a><br>by <a href="https://github.com/stravu">stravu</a></td>
-<td>Alternative Clients</td>
-<td>General</td>
-<td>A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/stravu/crystal?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/stravu/crystal?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/stravu/crystal?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/stravu/crystal?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/stravu/crystal?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/stravu/crystal?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/stravu/crystal?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/stravu/crystal?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/stravu/crystal?style=flat-square" alt="license"></td>
-</tr>
-</tbody>
-</table>
+*No resources found in this category.*
 
 ---
 
-**Total Resources:** 5
+**Total Resources:** 0
 
-**Last Generated:** 2026-04-21
+**Last Generated:** 2026-05-19

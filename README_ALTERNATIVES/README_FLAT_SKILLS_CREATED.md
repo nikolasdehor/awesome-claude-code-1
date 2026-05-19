@@ -62,6 +62,24 @@ A flat list view of all resources. Category: **Skills** | Sorted: by date create
 <td>Members from the Signal Foundation with some really great tips and tricks on how to turn your operating system into an instrument of total surveillance, and why some companies are doing this really awesome thing. [warning: YouTube link]</td>
 </tr>
 <tr>
+<td><a href="https://github.com/nikolasdehor/shieldcode"><b>shieldcode</b></a><br>by <a href="https://github.com/nikolasdehor">Nikolas de Hor</a></td>
+<td>Agent Skills</td>
+<td>General</td>
+<td>Security hardening skill for Claude Code with OWASP-aligned protections (SQLi, XSS, SSRF, path traversal).</td>
+</tr>
+<tr>
+<td colspan="4"><img src="https://img.shields.io/github/stars/nikolasdehor/shieldcode?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/nikolasdehor/shieldcode?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/nikolasdehor/shieldcode?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/nikolasdehor/shieldcode?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/nikolasdehor/shieldcode?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/nikolasdehor/shieldcode?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/nikolasdehor/shieldcode?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/nikolasdehor/shieldcode?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/nikolasdehor/shieldcode?style=flat-square" alt="license"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/nikolasdehor/visual-eyes"><b>visual-eyes</b></a><br>by <a href="https://github.com/nikolasdehor">Nikolas de Hor</a></td>
+<td>Agent Skills</td>
+<td>General</td>
+<td>Claude Code skill for visual accessibility analysis (contrast, font size, spacing) with automatic reporting.</td>
+</tr>
+<tr>
+<td colspan="4"><img src="https://img.shields.io/github/stars/nikolasdehor/visual-eyes?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/nikolasdehor/visual-eyes?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/nikolasdehor/visual-eyes?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/nikolasdehor/visual-eyes?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/nikolasdehor/visual-eyes?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/nikolasdehor/visual-eyes?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/nikolasdehor/visual-eyes?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/nikolasdehor/visual-eyes?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/nikolasdehor/visual-eyes?style=flat-square" alt="license"></td>
+</tr>
+<tr>
 <td><a href="https://github.com/zarazhangrui/codebase-to-course"><b>Codebase to Course</b></a><br>by <a href="https://github.com/zarazhangrui">Zara Zhang</a></td>
 <td>Agent Skills</td>
 <td>General</td>
@@ -107,15 +125,6 @@ A flat list view of all resources. Category: **Skills** | Sorted: by date create
 <td colspan="4"><img src="https://img.shields.io/github/stars/avifenesh/agentsys?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/avifenesh/agentsys?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/avifenesh/agentsys?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/avifenesh/agentsys?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/avifenesh/agentsys?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/avifenesh/agentsys?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/avifenesh/agentsys?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/avifenesh/agentsys?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/avifenesh/agentsys?style=flat-square" alt="license"></td>
 </tr>
 <tr>
-<td><a href="https://github.com/trailofbits/skills"><b>Trail of Bits Security Skills</b></a><br>by <a href="https://github.com/trailofbits">Trail of Bits</a></td>
-<td>Agent Skills</td>
-<td>General</td>
-<td>A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/trailofbits/skills?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/trailofbits/skills?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/trailofbits/skills?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/trailofbits/skills?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/trailofbits/skills?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/trailofbits/skills?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/trailofbits/skills?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/trailofbits/skills?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/trailofbits/skills?style=flat-square" alt="license"></td>
-</tr>
-<tr>
 <td><a href="https://github.com/undeadlist/claude-code-agents"><b>Claude Code Agents</b></a><br>by <a href="https://github.com/undeadlist">Paul - UndeadList</a></td>
 <td>Agent Skills</td>
 <td>General</td>
@@ -143,15 +152,6 @@ A flat list view of all resources. Category: **Skills** | Sorted: by date create
 <td colspan="4"><img src="https://img.shields.io/github/stars/NeoLabHQ/context-engineering-kit?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/NeoLabHQ/context-engineering-kit?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/NeoLabHQ/context-engineering-kit?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/NeoLabHQ/context-engineering-kit?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/NeoLabHQ/context-engineering-kit?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/NeoLabHQ/context-engineering-kit?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/NeoLabHQ/context-engineering-kit?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/NeoLabHQ/context-engineering-kit?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/NeoLabHQ/context-engineering-kit?style=flat-square" alt="license"></td>
 </tr>
 <tr>
-<td><a href="https://github.com/glittercowboy/taches-cc-resources"><b>TÂCHES Claude Code Resources</b></a><br>by <a href="https://github.com/glittercowboy">TÂCHES</a></td>
-<td>Agent Skills</td>
-<td>General</td>
-<td>A well-balanced, "down-to-Earth" set of sub agents, skills, and commands,  that are well-organized, easy to read, and a healthy focus on "meta"-skills/agents, like "skill-auditor", hook creation, etc. - the kind of things you can adapt to your workflow, and not the other way around.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/glittercowboy/taches-cc-resources?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/glittercowboy/taches-cc-resources?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/glittercowboy/taches-cc-resources?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/glittercowboy/taches-cc-resources?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/glittercowboy/taches-cc-resources?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/glittercowboy/taches-cc-resources?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/glittercowboy/taches-cc-resources?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/glittercowboy/taches-cc-resources?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/glittercowboy/taches-cc-resources?style=flat-square" alt="license"></td>
-</tr>
-<tr>
 <td><a href="https://github.com/skills-directory/skill-codex"><b>Codex Skill</b></a><br>by <a href="https://github.com/klaudworks">klaudworks</a></td>
 <td>Agent Skills</td>
 <td>General</td>
@@ -159,15 +159,6 @@ A flat list view of all resources. Category: **Skills** | Sorted: by date create
 </tr>
 <tr>
 <td colspan="4"><img src="https://img.shields.io/github/stars/skills-directory/skill-codex?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/skills-directory/skill-codex?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/skills-directory/skill-codex?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/skills-directory/skill-codex?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/skills-directory/skill-codex?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/skills-directory/skill-codex?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/skills-directory/skill-codex?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/skills-directory/skill-codex?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/skills-directory/skill-codex?style=flat-square" alt="license"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/alonw0/web-asset-generator"><b>Web Assets Generator Skill</b></a><br>by <a href="https://github.com/alonw0">Alon Wolenitz</a></td>
-<td>Agent Skills</td>
-<td>General</td>
-<td>Easily generate web assets from Claude Code including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Handles image resizing, text-to-image generation, emojis, and provides proper HTML meta tags.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/alonw0/web-asset-generator?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/alonw0/web-asset-generator?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/alonw0/web-asset-generator?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/alonw0/web-asset-generator?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/alonw0/web-asset-generator?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/alonw0/web-asset-generator?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/alonw0/web-asset-generator?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/alonw0/web-asset-generator?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/alonw0/web-asset-generator?style=flat-square" alt="license"></td>
 </tr>
 <tr>
 <td><a href="https://github.com/dreamiurg/claude-mountaineering-skills"><b>Claude Mountaineering Skills</b></a><br>by <a href="https://github.com/dreamiurg">Dmytro Gaivoronsky</a></td>
@@ -206,15 +197,6 @@ A flat list view of all resources. Category: **Skills** | Sorted: by date create
 <td colspan="4"><img src="https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/EveryInc/compound-engineering-plugin?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/EveryInc/compound-engineering-plugin?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/EveryInc/compound-engineering-plugin?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/EveryInc/compound-engineering-plugin?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/EveryInc/compound-engineering-plugin?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/EveryInc/compound-engineering-plugin?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/EveryInc/compound-engineering-plugin?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/EveryInc/compound-engineering-plugin?style=flat-square" alt="license"></td>
 </tr>
 <tr>
-<td><a href="https://github.com/obra/superpowers"><b>Superpowers</b></a><br>by <a href="https://github.com/obra">Jesse Vincent</a></td>
-<td>Agent Skills</td>
-<td>General</td>
-<td>A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices - which sometimes does feel like a superpower when working with Claude Code.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/obra/superpowers?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/obra/superpowers?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/obra/superpowers?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/obra/superpowers?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/obra/superpowers?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/obra/superpowers?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/obra/superpowers?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/obra/superpowers?style=flat-square" alt="license"></td>
-</tr>
-<tr>
 <td><a href="https://github.com/fcakyon/claude-codex-settings"><b>Claude Codex Settings</b></a><br>by <a href="https://github.com/fcakyon">fatih akyon</a></td>
 <td>Agent Skills</td>
 <td>General</td>
@@ -228,6 +210,6 @@ A flat list view of all resources. Category: **Skills** | Sorted: by date create
 
 ---
 
-**Total Resources:** 19
+**Total Resources:** 17
 
-**Last Generated:** 2026-04-21
+**Last Generated:** 2026-05-19
