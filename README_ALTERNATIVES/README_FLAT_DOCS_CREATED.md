@@ -45,45 +45,10 @@ A flat list view of all resources. Category: **Docs** | Sorted: by date created
 
 ## Resources
 
-<table>
-<thead>
-<tr>
-<th>Resource</th>
-<th>Category</th>
-<th>Sub-Category</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://docs.claude.com/en/home"><b>Anthropic Documentation</b></a><br>by <a href="https://github.com/anthropics">Anthropic</a></td>
-<td>Official Documentation</td>
-<td>General</td>
-<td>The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/anthropics/claude-code-action/tree/main/examples"><b>Claude Code GitHub Actions</b></a><br>by <a href="https://github.com/anthropics">Anthropic</a></td>
-<td>Official Documentation</td>
-<td>General</td>
-<td>Official GitHub Actions integration for Claude Code with examples and documentation for automating AI-powered workflows in CI/CD pipelines.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/anthropics/claude-code-action?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/anthropics/claude-code-action?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/anthropics/claude-code-action?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/anthropics/claude-code-action?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/anthropics/claude-code-action?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/anthropics/claude-code-action?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/anthropics/claude-code-action?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/anthropics/claude-code-action?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/anthropics/claude-code-action?style=flat-square" alt="license"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/anthropics/claude-quickstarts"><b>Anthropic Quickstarts</b></a><br>by <a href="https://github.com/anthropics">Anthropic</a></td>
-<td>Official Documentation</td>
-<td>General</td>
-<td>Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/anthropics/claude-quickstarts?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/anthropics/claude-quickstarts?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/anthropics/claude-quickstarts?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/anthropics/claude-quickstarts?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/anthropics/claude-quickstarts?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/anthropics/claude-quickstarts?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/anthropics/claude-quickstarts?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/anthropics/claude-quickstarts?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/anthropics/claude-quickstarts?style=flat-square" alt="license"></td>
-</tr>
-</tbody>
-</table>
+*No resources found in this category.*
 
 ---
 
-**Total Resources:** 3
+**Total Resources:** 0
 
-**Last Generated:** 2026-04-21
+**Last Generated:** 2026-05-19
